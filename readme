@@ -4,3 +4,12 @@ numpy version: 1.19.5
 
 run command: python RPS.py
 
+
+How to play?
+
+1. Run command: python RPS.py
+2. Locate your hand in the square area
+3. click 'space bar'
+4. Waiting 3 seconds
+5. Check the result
+6. 
